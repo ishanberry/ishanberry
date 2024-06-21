@@ -24,7 +24,7 @@
 ### MY PORTFOLIO WEBSITE
 https://ishandevportfolio.vercel.app/
 
-### MY GROUP HACKATHON PROJECT 
+### MY  HACKATHON PROJECT 
 (https://github.com/Arunodaya9027/RJPOLICE_HACK_1224_Atulya_1)
 ---
 [![](https://visitcount.itsvg.in/api?id=ishanberry&icon=0&color=0)](https://visitcount.itsvg.in)
